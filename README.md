@@ -30,7 +30,7 @@
         <p>神探夏洛克</p>
         <img src="https://github.com/Jinlong4869/Jinlong4869.github.io/blob/main/e3edf80332b91635ee1d891671dc0336%20(1).jpg">
         <P>生活大爆炸</P>
-        <a href="https://www.bilibili.com/video/BV1Us411V7Ly/?spm_id_from=trigger_reload">节选片段</a>
+        <a href="https://www.bilibili.com/video/BV1Us411V7Ly/?spm_id_from=trigger_reload">小片段</a>
         <P>一人之下</P>
         <img src="https://github.com/Jinlong4869/Jinlong4869.github.io/blob/main/ece34a8d6d80ddd15f0b96680c8519a8%20(1).jpg">
 </body>       
