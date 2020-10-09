@@ -33,5 +33,5 @@
         <P>生活大爆炸</P>
         <a href="https://www.bilibili.com/video/BV1Us411V7Ly/?spm_id_from=trigger_reload">小片段</a>
         <P>一人之下</P>
-        <img src="s/ece34a8d6d80ddd15f0b96680c8519a8%20(1).jpg">
+        <img src="/ece34a8d6d80ddd15f0b96680c8519a8%20(1).jpg">
 </body>       
