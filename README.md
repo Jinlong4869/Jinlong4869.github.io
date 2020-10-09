@@ -4,7 +4,7 @@
     <head>
     	<meta charset="utf-8"/>
     	<title>我的第一个网页</title>
-        <link rel="stylesheet"type="text/css" href="/b50453c016a9c07f681fbb466522858beb9dc1b8/test.css"/>
+        <link rel="stylesheet" type="text/css" href="/b50453c016a9c07f681fbb466522858beb9dc1b8/test.css"/>
     </head>
     <body>
     	<h1>个人简介</h1>
