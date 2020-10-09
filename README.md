@@ -4,7 +4,7 @@
     <head>
     	<meta charset="utf-8"/>
     	<title>我的第一个网页</title>
-        <link href="styles/test.css"rel="stylesheet"type="text/css"/>
+        <link href="https://github.com/Jinlong4869/Jinlong4869.github.io/blob/main/test.css"rel="stylesheet"type="text/css"/>
     </head>
     <body>
     	<h1>个人简介</h1>
