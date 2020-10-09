@@ -4,7 +4,7 @@
     <head>
     	<meta charset="utf-8"/>
     	<title>我的第一个网页</title>
-        <link href="https://github.com/Jinlong4869/Jinlong4869.github.io/blob/main/test.css"rel="stylesheet"type="text/css"/>
+        <link href="/blob/main/test.css"rel="stylesheet"type="text/css"/>
     </head>
     <body>
     	<h1>个人简介</h1>
@@ -23,7 +23,7 @@
     	<h1>个人空间</h1>
     	<h2>音乐</h2>
     	<p>周杰伦</p>
-    	<img src="images/e91dcfeee7c57eda6e3e6edfc76aebb7%20(1).jpg">
+    	<img src="/blob/main/e91dcfeee7c57eda6e3e6edfc76aebb7%20(1).jpg">
     	<a href="https://www.bilibili.com/video/BV1fx411N7bU?p=55">《搁浅》MV</a>
     	<p>英文歌（最近听到）</p>
         <a href="https://music.163.com/#/song?id=21157332&autoplay=true&market=baiduhd">《one day》Matisyahu</a>
