@@ -1,6 +1,6 @@
 h1{
   color:red;
-  font-size:12px;  
+  font-size:12px;
 }
 body{
  background-color:green;
@@ -9,5 +9,5 @@ p{
  color:blue;
 }
 *{
-  font-style:italic  
+ font-style:italic; 	
 }
